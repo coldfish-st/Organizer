@@ -1,0 +1,35 @@
+The application is a Personal Organizer. 
+
+The 'x' means that the app implements such requirement.
+
+The GUI provides users with help for non-standard or tricky parts for the interface (could be a short manual or hover over help messages).
+
+You include extra attributes for personal information. e.g. email addresses, home addresses, birthdays, etc
+
+Add a todo list.
+
+Add calendar information.
+
+Store user application preferences (e.g. GUI font size, name format, colour scheme, ...).
+
+Enable the data to be exported in different formats.
+
+Enable the data to be imported from different formats.
+
+Enable the application to run on Android.
+
+Enable the user to produce printable address book.
+
+Enable the application to store images of the people in the address book.
+
+Enable the user to perform searching through their address book.
+
+Enable the application to initiate an email to a person in the address book.
+
+Add the ability to merge the entries within the address book.
+
+Get the application to store revision history of the data.
+
+Enable the application to share data between computers/systems (either using client-server or peer-to-peer type approaches).
+
+Address race conditions associated with multiple instances of the one application running on the same computer.
